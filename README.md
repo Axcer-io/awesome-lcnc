@@ -1,6 +1,6 @@
 # Awesome Low-Code No-Code (LCNC)
 
-## No Code Website Builder
+## Application Builder
 
 | Name | Web | Mobile | Paid | Free |
 | :---: | :---: | :---: | :---: |:---: |
