@@ -21,6 +21,7 @@ Hasura
 
 ## AI Tools
 
+## Payment Gateway
 
 ## Test Automation Tools
 
