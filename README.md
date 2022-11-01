@@ -1,8 +1,11 @@
 # Awesome Low-Code No-Code (LCNC)
 
 ## No Code Website Builder
-Webflow
-Bubble
+
+| Name | Web | Mobile | Paid | Free |
+| :---: | :---: | :---: | :---: |:---: |
+|Webflow| ||||
+|Bubble|||||
 
 ## Backend
 
