@@ -4,8 +4,10 @@
 
 | Name | Web | Mobile | Paid | Free |
 | :---: | :---: | :---: | :---: |:---: |
-|Webflow| ||||
-|Bubble|||||
+|(Webflow)[https://webflow.com]| ||||
+|(Bubble)[https://bubble.io]|||||
+|(honeycode)[https://www.honeycode.aws]|||||
+|(Glide)[https://www.glideapps.com]|||||
 
 ## Backend
 
